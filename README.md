@@ -3,6 +3,7 @@ Gist App
 
 Uses:
 
+- [React] (http://reactjs.com)
 - [React Router](https://github.com/rackt/react-router)
 - [Webpack](http://webpack.github.io/)
 - [Orchestrate.io](http://orchestrate.io/)
