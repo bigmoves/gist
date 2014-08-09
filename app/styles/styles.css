@@ -1,0 +1,41 @@
+.container {
+  width: 980px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+header.show {
+  padding-bottom: 10px;
+}
+
+pre {
+  margin: 0;
+}
+
+body .hljs {
+  padding: 15px;
+}
+
+.description {
+  font-size: 16px;
+}
+
+.actions .btn {
+  margin-left: 8px;
+}
+
+body .col-xs-3 {
+  padding-left: 0;
+}
+
+body .panel-body {
+  padding: 0;
+}
+
+body .btn {
+  font-weight: bold;
+}
+
+body .btn-default {
+  border: 2px solid #ddd;
+}
