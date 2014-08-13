@@ -15,3 +15,7 @@ $ ./bin/dev
 # or
 $ PORT=8000 ./bin/dev
 ```
+Todo
+====
+
+- Fix active nav tabs
