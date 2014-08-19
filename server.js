@@ -3,7 +3,7 @@ var path = require('path');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
-var db = require('orchestrate')(require('./config').api_key);
+var db = require('orchestrate')(process.env.ORCHESTRATE_API_KEY);
 
 var app = express();
 
